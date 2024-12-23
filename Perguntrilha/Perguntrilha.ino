@@ -1,6 +1,3 @@
-//Codigo final
-//Palavras não bastam, tem que se envolver...
-
 //Carrega as bibliotecas
 #include <LiquidCrystal.h>
 //Inicializa o display LCD
